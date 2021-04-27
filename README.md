@@ -5,6 +5,7 @@
 
 
 ![alt 中图片](123.png)
+![alt IBM](image.png)
 
 <br>
 这是一个菜鸟教程链接 [菜鸟教程](https://www.runoob.com)
