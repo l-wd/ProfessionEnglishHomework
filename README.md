@@ -2,6 +2,10 @@
 #### 这是四级标题
 ![alt  图标](https://img2.baidu.com/it/u=360400461,2955275651&fm=26&fmt=auto&gp=0.jpg)
 ![alt  中国军人](https://p1.img.cctvpic.com/photoworkspace/2021/04/26/2021042615342811951.jpg)
+
+
+![alt 中图片](123.png)
+
 <br>
 这是一个菜鸟教程链接 [菜鸟教程](https://www.runoob.com)
 这是一个京东链接 [京东](https://www.jd.com)
@@ -50,7 +54,7 @@
 ~~删除线文本~~
 <hr>
 
-![alt  图标](123.png)
+![alt  图片](123.png)
 
 
 ```
